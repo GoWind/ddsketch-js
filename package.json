@@ -1,0 +1,10 @@
+{
+  "name": "sketches-js",
+  "version": "0.1.0",
+  "description": "JavaScript port of the DDSketch quantile sketch.",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
